@@ -19,7 +19,7 @@ namespace WebApiClient
       var org = new Organization(input);
 
       var repositories = await FetchRepositories(input, 1);
-
+    
       await org.AddRepositories(repositories, 1);
 
       Program.Organizations.Add(org);
