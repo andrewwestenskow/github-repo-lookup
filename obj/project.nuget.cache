@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/m2L4L8xYWGPCTVdzmu8T4AQCCLPwaW0y6IonDgh7rUs6Vire4kx8bYk4r/sho24RYazdMcIuYrHCtq6GVou4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\development-projects\\learn-c\\WebApiClient\\WebApiClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
