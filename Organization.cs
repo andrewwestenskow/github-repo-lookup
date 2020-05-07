@@ -8,7 +8,7 @@ namespace WebApiClient
   {
     public string Name {get;}
     public int lastPage {get; set;}
-    public static List<Repository> Repositories = new List<Repository>();
+    public List<Repository> Repositories = new List<Repository>();
 
     public Organization(string name)
     {
